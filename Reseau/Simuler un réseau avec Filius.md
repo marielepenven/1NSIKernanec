@@ -64,7 +64,7 @@ Un sous-réseau est une subdivision d'un réseau de taille plus importante. Le m
 
 
 
-Par exemple 255.0.0.0 est un masque de sous-réseau (255 = 111111111). On peut également le noter /8 car les huit premiers bits sont à 1. Ainsi toute les adresses d’un sous-réseau avec ce masque auront les mêmes 8 premiers bits.
+Par exemple 255.0.0.0 est un masque de sous-réseau (255 = 111111111). On peut également le noter /8 car les huit premiers bits sont à 1. Ainsi toutes les adresses d’un sous-réseau avec ce masque auront les mêmes 8 premiers bits.
 
 Par exemple 126.154.168.222/8 et 126.214.25.1/8 appartiennent au même sous réseau d’adresse 126.0.0.0/8 car elles commencent par 126.
 
@@ -218,3 +218,4 @@ Sur les ordinateurs reliés au Switch 1 ajouter la passerelle 192.168.1.254 et s
 Question 10: Tester à nouveau la connexion entre les portables 1 et 6. Que constatez-vous ?
 
 Question 11:  Sur l’ordinateur 1 saisissez traceroute 192.168.2.6. Que constatez vous ? 
+
