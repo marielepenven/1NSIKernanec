@@ -18,15 +18,15 @@ Progression
 17. Le réseau.
 18. Texte
 19. Dictionnaires.
-20. Le web
-21. Interaction serveur-client.
-22. Projet numéro 3:Création d'une calculatrice en ligne.
-23. Les systèmes d'exploitation.
-24. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
-25. Traitement des données en table.
-26. Projet numéro 4: la gestion d'une bibliothéque.
-27. Tris
-28. Recherche dichotomique.
-29. K-plus proche voisins.
-33. Algorithme glouton
+20. Les systèmes d'exploitation.
+21. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
+22. Traitement des données en table.
+23. Projet numéro 4: la gestion d'une bibliothéque.
+24. Tris
+25. Recherche dichotomique.
+26. K-plus proche voisins.
+27. Algorithme glouton
+28. 20. Le web
+29. Interaction serveur-client.
+30. Projet numéro 3:Création d'une calculatrice en ligne.
 
